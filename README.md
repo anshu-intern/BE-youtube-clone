@@ -41,6 +41,8 @@ Live production deployment (no installation needed):
 
 This project is deployed over the internet using RENDER.
 
+Test route: https://be-youtube-clone-8jop.onrender.com/
+
 This source code is configured and deployed.
 
 Thanks!
